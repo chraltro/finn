@@ -1,0 +1,132 @@
+{
+  "prices": [
+    {
+      "piece": "Wegner CH24 Y-stol (vintage)",
+      "designer": "Hans J. Wegner",
+      "dealer_price_low": 3000,
+      "dealer_price_high": 6000,
+      "currency": "NOK",
+      "keywords": ["CH24", "Y-stol", "wishbone", "y-chair", "wegner"]
+    },
+    {
+      "piece": "Wegner CH23",
+      "designer": "Hans J. Wegner",
+      "dealer_price_low": 8000,
+      "dealer_price_high": 12000,
+      "currency": "NOK",
+      "keywords": ["CH23", "wegner"]
+    },
+    {
+      "piece": "Hvidt & Mølgaard Boomerang chair (FD134)",
+      "designer": "Peter Hvidt",
+      "dealer_price_low": 15000,
+      "dealer_price_high": 40000,
+      "currency": "NOK",
+      "keywords": ["boomerang", "FD134", "fd 134", "hvidt", "mølgaard"]
+    },
+    {
+      "piece": "Hvidt & Mølgaard Minerva daybed",
+      "designer": "Peter Hvidt",
+      "dealer_price_low": 20000,
+      "dealer_price_high": 50000,
+      "currency": "NOK",
+      "keywords": ["minerva", "daybed", "hvidt", "mølgaard"]
+    },
+    {
+      "piece": "Erik Buch Model 49 barstool",
+      "designer": "Erik Buch",
+      "dealer_price_low": 3000,
+      "dealer_price_high": 8000,
+      "currency": "NOK",
+      "keywords": ["model 49", "buch", "buck", "barstol"]
+    },
+    {
+      "piece": "Erik Buch Model 310 dining chairs",
+      "designer": "Erik Buch",
+      "dealer_price_low": 2000,
+      "dealer_price_high": 5000,
+      "currency": "NOK",
+      "keywords": ["model 310", "buch", "buck"]
+    },
+    {
+      "piece": "Kai Kristiansen Model 31",
+      "designer": "Kai Kristiansen",
+      "dealer_price_low": 3000,
+      "dealer_price_high": 6000,
+      "currency": "NOK",
+      "keywords": ["model 31", "kristiansen", "kai"]
+    },
+    {
+      "piece": "Niels O. Møller Model 71/75",
+      "designer": "Niels Otto Møller",
+      "dealer_price_low": 2500,
+      "dealer_price_high": 5000,
+      "currency": "NOK",
+      "keywords": ["model 71", "model 75", "møller", "moller"]
+    },
+    {
+      "piece": "Finn Juhl Spade chair (FD133)",
+      "designer": "Finn Juhl",
+      "dealer_price_low": 30000,
+      "dealer_price_high": 80000,
+      "currency": "NOK",
+      "keywords": ["spade", "FD133", "fd 133", "finn juhl"]
+    },
+    {
+      "piece": "Illum Wikkelsø Capella chair",
+      "designer": "Illum Wikkelsø",
+      "dealer_price_low": 15000,
+      "dealer_price_high": 40000,
+      "currency": "NOK",
+      "keywords": ["capella", "wikkelsø", "wikkelso"]
+    },
+    {
+      "piece": "Grete Jalk lounge chair (France & Søn)",
+      "designer": "Grete Jalk",
+      "dealer_price_low": 15000,
+      "dealer_price_high": 35000,
+      "currency": "NOK",
+      "keywords": ["grete jalk", "jalk"]
+    },
+    {
+      "piece": "Arne Vodder sideboard (Sibast)",
+      "designer": "Arne Vodder",
+      "dealer_price_low": 20000,
+      "dealer_price_high": 60000,
+      "currency": "NOK",
+      "keywords": ["vodder", "sibast", "sideboard"]
+    },
+    {
+      "piece": "Ib Kofod-Larsen Elizabeth chair",
+      "designer": "Ib Kofod-Larsen",
+      "dealer_price_low": 20000,
+      "dealer_price_high": 50000,
+      "currency": "NOK",
+      "keywords": ["elizabeth", "kofod-larsen", "kofod larsen"]
+    },
+    {
+      "piece": "Johannes Andersen UFO table",
+      "designer": "Johannes Andersen",
+      "dealer_price_low": 10000,
+      "dealer_price_high": 25000,
+      "currency": "NOK",
+      "keywords": ["ufo", "johannes andersen"]
+    },
+    {
+      "piece": "Mogensen J39 Folkestolen",
+      "designer": "Børge Mogensen",
+      "dealer_price_low": 2000,
+      "dealer_price_high": 4000,
+      "currency": "NOK",
+      "keywords": ["J39", "folkestolen", "mogensen"]
+    },
+    {
+      "piece": "Mogensen 2256 Slædestolen",
+      "designer": "Børge Mogensen",
+      "dealer_price_low": 15000,
+      "dealer_price_high": 30000,
+      "currency": "NOK",
+      "keywords": ["2256", "slædestolen", "sledestolen", "mogensen"]
+    }
+  ]
+}

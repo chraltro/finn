@@ -1,0 +1,199 @@
+{
+  "manufacturers": {
+    "France & Søn": {
+      "aliases": ["France & Daverkosen", "France og Søn", "france & son", "france and son"],
+      "notable_designers": ["Grete Jalk", "Finn Juhl", "Peter Hvidt", "Illum Wikkelsø"]
+    },
+    "Carl Hansen & Søn": {
+      "aliases": ["Carl Hansen", "carl hansen"],
+      "notable_designers": ["Hans J. Wegner"]
+    },
+    "Fritz Hansen": {
+      "aliases": ["fritz hansen", "Republic of Fritz Hansen"],
+      "notable_designers": ["Arne Jacobsen", "Poul Kjærholm", "Hans J. Wegner"]
+    },
+    "Getama": {
+      "aliases": ["getama", "GETAMA"],
+      "notable_designers": ["Hans J. Wegner"]
+    },
+    "PP Møbler": {
+      "aliases": ["pp møbler", "PP mobler"],
+      "notable_designers": ["Hans J. Wegner"]
+    },
+    "FDB Møbler": {
+      "aliases": ["FDB", "fdb møbler", "fdb"],
+      "notable_designers": ["Børge Mogensen"]
+    },
+    "Søborg Møbelfabrik": {
+      "aliases": ["Søborg", "soborg", "Soborg Møbelfabrik"],
+      "notable_designers": ["Børge Mogensen"]
+    },
+    "Cado": {
+      "aliases": ["cado", "CADO"],
+      "notable_designers": ["Poul Cadovius"]
+    },
+    "Niels Eilersen": {
+      "aliases": ["niels eilersen"],
+      "notable_designers": ["Illum Wikkelsø"]
+    },
+    "Fredericia": {
+      "aliases": ["Fredericia Stolefabrik", "fredericia"],
+      "notable_designers": ["Børge Mogensen"]
+    },
+    "J.L. Møller": {
+      "aliases": ["JL Møller", "J L Møller", "jl møller", "JL Moller"],
+      "notable_designers": ["Niels Otto Møller"]
+    },
+    "Dyrlund": {
+      "aliases": ["dyrlund", "DYRLUND"],
+      "notable_designers": []
+    },
+    "Silkeborg": {
+      "aliases": ["silkeborg"],
+      "notable_designers": []
+    },
+    "Farstrup": {
+      "aliases": ["farstrup", "FARSTRUP"],
+      "notable_designers": []
+    },
+    "Brdr. Andersen": {
+      "aliases": ["brdr andersen", "Brdr Andersen"],
+      "notable_designers": []
+    },
+    "Sibast": {
+      "aliases": ["sibast", "SIBAST", "Sibast Møbler"],
+      "notable_designers": ["Arne Vodder"]
+    },
+    "Bovirke": {
+      "aliases": ["bovirke"],
+      "notable_designers": ["Arne Vodder"]
+    }
+  },
+  "designers": {
+    "Hans J. Wegner": {
+      "aliases": ["wegner", "hans wegner", "h.j. wegner", "h j wegner"],
+      "known_pieces": ["CH24 Y-stol", "CH23", "CH07", "Peacock chair", "The Chair", "Shell Chair", "Papa Bear Chair"],
+      "recognition_level": "high"
+    },
+    "Finn Juhl": {
+      "aliases": ["finn juhl", "f. juhl"],
+      "known_pieces": ["Spade chair FD133", "Chieftain chair", "Pelican chair", "NV-45"],
+      "recognition_level": "high"
+    },
+    "Børge Mogensen": {
+      "aliases": ["mogensen", "borge mogensen", "børge mogensen"],
+      "known_pieces": ["J39 Folkestolen", "2256 Slædestolen", "Spanish Chair", "Hunting Chair"],
+      "recognition_level": "high"
+    },
+    "Arne Jacobsen": {
+      "aliases": ["jacobsen", "arne jacobsen"],
+      "known_pieces": ["Egg Chair", "Swan Chair", "Series 7", "Ant Chair"],
+      "recognition_level": "high"
+    },
+    "Poul Kjærholm": {
+      "aliases": ["kjærholm", "kjaerholm", "poul kjaerholm"],
+      "known_pieces": ["PK22", "PK61", "PK80"],
+      "recognition_level": "high"
+    },
+    "Kaare Klint": {
+      "aliases": ["klint", "kaare klint"],
+      "known_pieces": ["Safari Chair", "Faaborg Chair"],
+      "recognition_level": "high"
+    },
+    "Nanna Ditzel": {
+      "aliases": ["ditzel", "nanna ditzel"],
+      "known_pieces": ["Trinidad Chair", "Hanging Egg Chair"],
+      "recognition_level": "medium"
+    },
+    "Peter Hvidt": {
+      "aliases": ["hvidt", "peter hvidt", "hvidt & mølgaard", "hvidt og mølgaard", "hvidt mølgaard"],
+      "known_pieces": ["Boomerang chair FD134", "Minerva series", "AX chair"],
+      "recognition_level": "low"
+    },
+    "Orla Mølgaard-Nielsen": {
+      "aliases": ["mølgaard", "molgaard", "orla mølgaard"],
+      "known_pieces": ["Boomerang chair FD134", "Minerva series", "AX chair"],
+      "recognition_level": "low"
+    },
+    "Illum Wikkelsø": {
+      "aliases": ["wikkelsø", "wikkelso", "illum wikkelsø", "illum wikkelso"],
+      "known_pieces": ["Capella series", "Ringstol", "Model EK"],
+      "recognition_level": "low"
+    },
+    "Erik Buch": {
+      "aliases": ["erik buch", "erik buck", "e. buch"],
+      "known_pieces": ["Model 49 barstool", "Model 310 dining chairs"],
+      "recognition_level": "low"
+    },
+    "Niels Kofoed": {
+      "aliases": ["niels kofoed", "n. kofoed"],
+      "known_pieces": ["Gate Leg table", "dining chairs"],
+      "recognition_level": "low"
+    },
+    "Ib Kofod-Larsen": {
+      "aliases": ["kofod-larsen", "kofod larsen", "ib kofod"],
+      "known_pieces": ["Penguin chair", "Elizabeth chair"],
+      "recognition_level": "low"
+    },
+    "Grete Jalk": {
+      "aliases": ["grete jalk", "jalk"],
+      "known_pieces": ["Lounge chair for France & Søn"],
+      "recognition_level": "low"
+    },
+    "Ole Wanscher": {
+      "aliases": ["wanscher", "ole wanscher"],
+      "known_pieces": ["Colonial chair", "Rungstedlund"],
+      "recognition_level": "medium"
+    },
+    "Kai Kristiansen": {
+      "aliases": ["kai kristiansen", "kristiansen"],
+      "known_pieces": ["Model 31", "Model 42", "Model NV-31"],
+      "recognition_level": "low"
+    },
+    "Niels Otto Møller": {
+      "aliases": ["niels møller", "n.o. møller", "niels o møller", "niels otto møller", "n.o. moller"],
+      "known_pieces": ["Model 71", "Model 75", "Model 77", "Model 78", "Model 83"],
+      "recognition_level": "low"
+    },
+    "Johannes Andersen": {
+      "aliases": ["johannes andersen"],
+      "known_pieces": ["UFO table", "Capri chairs"],
+      "recognition_level": "low"
+    },
+    "Arne Vodder": {
+      "aliases": ["vodder", "arne vodder"],
+      "known_pieces": ["Sideboard for Sibast", "Desk for Bovirke"],
+      "recognition_level": "low"
+    },
+    "Henry Rosengren Hansen": {
+      "aliases": ["rosengren hansen", "henry rosengren"],
+      "known_pieces": [],
+      "recognition_level": "low"
+    },
+    "Helge Vestergaard Jensen": {
+      "aliases": ["vestergaard jensen", "helge vestergaard"],
+      "known_pieces": [],
+      "recognition_level": "low"
+    },
+    "Svend Aage Eriksen": {
+      "aliases": ["svend aage eriksen", "svend eriksen"],
+      "known_pieces": [],
+      "recognition_level": "low"
+    },
+    "Ejvind A. Johansson": {
+      "aliases": ["ejvind johansson", "johansson"],
+      "known_pieces": ["Eye chair", "Model 84"],
+      "recognition_level": "low"
+    },
+    "H.W. Klein": {
+      "aliases": ["hw klein", "h w klein", "h.w. klein"],
+      "known_pieces": [],
+      "recognition_level": "low"
+    },
+    "Kurt Østervig": {
+      "aliases": ["østervig", "ostervig", "kurt østervig"],
+      "known_pieces": [],
+      "recognition_level": "low"
+    }
+  }
+}
